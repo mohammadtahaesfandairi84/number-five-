@@ -14,7 +14,3 @@
 #       if z == 5:
 #         x=+1       
 # print(x)
-
-
-x = ["ali","reza","taha","solmaz"]
-print(x[0[0]])
